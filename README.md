@@ -1,4 +1,8 @@
-# Word Heat Generator
+![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)
+![Language](https://img.shields.io/badge/language-Python-blue.svg)
+![Status](https://img.shields.io/badge/status-finished-success)
+
+# Word Guesser 
 
 This Python program generates 5-letter words on a **realism scale from 0 to 5**, simulating how close a randomly generated string gets to being a real English word. It dynamically tightens constraints based on the chosen "heat" level and tracks how many iterations and how much time it takes to find a match.
 
